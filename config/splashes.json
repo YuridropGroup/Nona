@@ -1,0 +1,411 @@
+{
+    "splashes": {
+
+    	"1": {
+        	"quote": "Wake the fuck up, Samurai! We have a city to burn.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"2": {
+        	"quote": "And you're a cunt. Maybe we'll fit together after all.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"3": {
+        	"quote": "Not even an itch on your daddy's ballsack.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"4": {
+        	"quote": "To Bring An End To The Madness You Wreak.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"5": {
+        	"quote": "Only Two Willing To Spread Their Legs For You? Sad.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"6": {
+        	"quote": "Fuck V. I’ve Been Dead The Last Half Century.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"7": {
+        	"quote": "Know What? You’re Starting To Remind Me Of Me.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"8": {
+        	"quote": "Doesn’t Matter How Good You Are In Night City. On Your Own, You’re F**ked.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"9": {
+        	"quote": "Of All The Heads I Could Have Popped Up In, Hella Glad It Was Yours.",
+        	"author": "Johnny Silverhand"
+      	},
+
+      	"10" : {
+        	"quote"  : "Goodbye, V, And Never Stop Fighting.",
+        	"author" : "Johnny Silverhand"
+    	},
+
+      	"11": {
+        	"quote": "I’ll take you to the moon, no matter what it takes.",
+        	"author": "David Martinez"
+      	},
+
+      	"12": {
+        	"quote": "When you’re in Night City, the only way to go is forward.",
+        	"author": "David Martinez"
+      	},
+
+      	"13": {
+        	"quote": "The city doesn’t decide who you are. You do.",
+        	"author": "David Martinez"
+      	},
+
+      	"14": {
+        	"quote": "Dreams are for dreamers. In Night City, you make your reality.",
+        	"author": "David Martinez"
+      	},
+
+      	"15": {
+        	"quote": "What’s the point of surviving if you can’t be who you are?",
+        	"author": "David Martinez"
+      	},
+
+      	"16": {
+        	"quote": "Legends aren’t born. They’re made by fire.",
+        	"author": "David Martinez"
+      	},
+
+      	"17": {
+        	"quote": "You don’t run from the edge. You conquer it.",
+        	"author": "David Martinez"
+      	},
+
+      	"18": {
+        	"quote": "It’s not how you start, it’s how you finish.",
+        	"author": "David Martinez"
+      	},
+
+      	"19": {
+        	"quote": "Here lies a man who died to prove he lived as he wanted.",
+        	"author": "David Martinez (Memorial)"
+      	},
+
+      	"20": {
+        	"quote": "Everyone gets a chance to choose the road they walk.",
+        	"author": "David Martinez (Memorial)"
+      	},
+
+      	"21": {
+        	"quote": "You didn't take me to the moon, but you were there with me.",
+        	"author": "David Martinez (Memorial)"
+      	},
+      
+      	"22": {
+        	"quote": "You never had to save me, all I wanted was for you to live!",
+        	"author": "Lucy"
+      	},
+
+      	"23": {
+        	"quote": "The city’s just a cage. And I’m ready to fly away.",
+        	"author": "Lucy"
+      	},
+
+      	"24": {
+        	"quote": "If you can’t trust yourself, who can you trust?",
+        	"author": "Lucy"
+      	},
+
+      	"25": {
+        	"quote": "There’s no place for dreams in Night City.",
+        	"author": "Lucy"
+      	},
+
+      	"26": {
+        	"quote": "The moon isn’t a dream. It’s a promise.",
+        	"author": "Lucy"
+      	},
+
+      	"27": {
+        	"quote": "We all have demons, but they don’t define us.",
+        	"author": "Lucy"
+      	},
+
+      	"28": {
+        	"quote": "When the city breaks you, the moon will set you free.",
+        	"author": "Lucy"
+      	},
+
+      	"29": {
+        	"quote": "Trust is earned, not given.",
+        	"author": "Lucy"
+      	},
+
+      	"30": {
+        	"quote": "Every runner has their limit. Find yours before it finds you.",
+        	"author": "Lucy"
+      	},
+
+      	"31": {
+        	"quote": "We all want freedom. But what’s the cost?",
+        	"author": "Lucy"
+      	},
+
+      	"32": {
+        	"quote": "This city’s just a glorified cemetery.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"33": {
+        	"quote": "Don’t ever let the city tell you who to be.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"34": {
+        	"quote": "The only way to survive Night City is to stay human.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"35": {
+        	"quote": "Sometimes, you gotta make your own family.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"36": {
+        	"quote": "Not everything in life has a restart button.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"37": {
+        	"quote": "We all have scars. It’s what we do with them that counts.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"38": {
+        	"quote": "The city takes and takes until there’s nothing left.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"39": {
+        	"quote": "Don’t let Night City take your heart.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"40": {
+        	"quote": "We’re more than just our chrome.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"41": {
+        	"quote": "Sometimes, you just have to burn it all down.",
+        	"author": "Judy Alvarez"
+      	},
+
+      	"42": {
+        	"quote": "Family’s not who you’re born with. It’s who you’d die for.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"43": {
+        	"quote": "Out here, we fight for each other, not for ourselves.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"44": {
+        	"quote": "You’ve got the heart of a Nomad. Don’t let the city take it.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"45": {
+        	"quote": "Life’s a highway. Just make sure you’re driving.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"46": {
+        	"quote": "Sometimes, home is just a place where people care.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"47": {
+        	"quote": "You don’t run from your problems. You face them.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"48": {
+        	"quote": "Loyalty means everything to me.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"49": {
+        	"quote": "Sometimes, you gotta leave to really find yourself.",
+        	"author": "Panam Palmer"
+      	},
+      
+      	"50": {
+        	"quote": "Nomads live by one rule: we survive together.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"51": {
+        	"quote": "The road always leads somewhere. Just don’t lose your way.",
+        	"author": "Panam Palmer"
+      	},
+
+      	"52": {
+        	"quote": "You either lose yourself, or you lose it all.",
+        	"author": "V"
+      	},
+
+      	"53": {
+        	"quote": "The city doesn’t forgive. It eats people alive.",
+        	"author": "V"
+      	},
+
+      	"54": {
+        	"quote": "Someday, someone will turn the city into a desert. But not today.",
+        	"author": "V"
+      	},
+
+      	"55": {
+        	"quote": "You can’t trust Night City, but you can trust yourself.",
+        	"author": "V"
+      	},
+
+      	"56": {
+        	"quote": "This city’s never gonna stop chewing people up and spitting them out.",
+        	"author": "V"
+      	},
+
+      	"57": {
+        	"quote": "Every street in this city tells a story. Most end in blood.",
+        	"author": "V"
+      	},
+
+      	"58": {
+        	"quote": "Sometimes, surviving means walking away.",
+        	"author": "V"
+      	},
+
+      	"59": {
+        	"quote": "We all start as dreamers in this city. It’s what happens after the dream dies that matters.",
+        	"author": "V"
+      	},
+
+      	"60": {
+        	"quote": "I didn’t choose this life, but I’ll damn well live it on my own terms.",
+        	"author": "V"
+      	},
+
+      	"61": {
+        	"quote": "Chrome don’t make you invincible. A bullet to the head’s still a bullet to the head.",
+        	"author": "V"
+      	},
+
+      	"62": {
+        	"quote": "The edge isn’t just a place. It’s a state of mind.",
+        	"author": "V"
+      	},
+
+      	"63": {
+        	"quote": "You either fight for a future or fade into the past.",
+        	"author": "V"
+      	},
+
+      	"64": {
+        	"quote": "Some people call it greed. I call it survival.",
+        	"author": "V"
+      	},
+
+      	"65": {
+        	"quote": "Night City’s not for the faint-hearted. Good thing I’m not.",
+        	"author": "V"
+      	},
+
+      	"66" : {
+			"quote"  : "This Is It. It’s The End Of The Line For Me. But Not For You.",
+			"author" : "Maine"
+		},
+
+		"67": {
+			"quote": "I’m gonna keep going, no matter what happens.",
+			"author": "Maine"
+		},
+
+		"68": {
+			"quote": "Let’s go, kid. You got a job to do.",
+			"author": "Maine"
+		},
+
+		"69": {
+			"quote": "No one’s gonna stop me. Not now, not ever.",
+			"author": "Maine"
+		},
+
+		"70": {
+			"quote": "You think I’m just some damn thug?",
+			"author": "Maine"
+		},
+
+		"71": {
+			"quote": "I can still feel it. That rush. It’s like nothing else.",
+			"author": "Maine"
+		},
+		  
+		"72": {
+			"quote": "If you want to survive, you’ve gotta adapt.",
+			"author": "Maine"
+		},
+
+		"73": {
+			"quote": "We’re Edgerunners, David. That’s the only family you got.",
+			"author": "Maine"
+		},
+
+		"74": {
+			"quote": "We’re not just surviving, we’re thriving.",
+			"author": "Maine"
+		},
+
+		"75": {
+			"quote": "You can’t just give up. Not like that.",
+			"author": "Maine"
+		},
+
+		"76": {
+			"quote": "This world, it’ll chew you up if you let it.",
+			"author": "Maine"
+		},
+
+		"77": {
+			"quote": "I told you before, we’re family. And I take care of my family.",
+			"author": "Maine"
+		},
+
+		"78": {
+			"quote": "We’ve all got our demons. The trick is, not letting them win.",
+			"author": "Maine"
+		},
+
+		"79": {
+			"quote": "Keep your head up, David. Keep it together.",
+			"author": "Maine"
+		},
+
+		"80": {
+			"quote": "Get in, get out, and keep your mouth shut.",
+			"author": "Maine"
+		},
+
+		"81": {
+			"quote": "I don't need anyone to tell me who I am.",
+			"author": "Maine"
+		}
+
+    }
+
+}

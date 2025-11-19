@@ -1,0 +1,102 @@
+{
+    "basic" : {
+
+        "help" : {
+            "description" : "Get help for a single command or all of them.",
+            "usage"       : "help [command](optional)"
+        }
+
+    },
+    "discord" : {
+
+        "createchannel" : {
+            "description" : "Create a single channel in the guild",
+            "usage"       : "createchannel"
+        },
+        "createchannels" : {
+            "description" : "Create the maximum amount of channels in the guild",
+            "usage"       : "createchannels"
+        },
+        "deletechannel" : {
+            "description" : "Delete a single channel in the guild",
+            "usage"       : "deletechannel [channel_id](mandatory)"
+        },
+        "deletechannels" : {
+            "description" : "Delete all the channels in the guild",
+            "usage"       : "deletechannels"
+        },
+        "spamchannel" : {
+            "description" : "Spam a single channel in the guild",
+            "usage"       : "spamchannel [channel_to_spam_id](mandatory) [message_to_spam](mandatory)"
+        },
+        "spamchannels" : {
+            "description" : "Spam random channels in the guild",
+            "usage"       : "spamchannels"
+        },
+        "banmember" : {
+            "description" : "Ban a member in the guild",
+            "usage"       : "banmember [user_id](mandatory)"
+        },
+        "banmembers" : {
+            "description" : "Ban all the members in the guild",
+            "usage"       : "banmembers"
+        },
+        "kickmember" : {
+            "description" : "Ban a members in the guild",
+            "usage"       : "kickmember [user_id](mandatory)"
+        },
+        "kickmembers" : {
+            "description" : "Kick all the members in the guild",
+            "usage"       : "kickmembers"
+        },
+        "givepermissions" : {
+            "description" : "Give administrator permissions to @everyone in the guild",
+            "usage"       : "givepermissions"
+        },
+        "createrole" : {
+            "description" : "Create a role in the guild",
+            "usage"       : "createrole [role_name[(mandatory)"
+        },
+        "createroles" : {
+            "description" : "Create the maximum amount of roles in the guild",
+            "usage"       : "createroles"
+        },
+        "deleterole" : {
+            "description" : "Delete a role in the guild",
+            "usage"       : "deleterole [role_id[(mandatory)"
+        },
+        "deleteroles" : {
+            "description" : "Delete all the roles in the guild",
+            "usage"       : "deleteroles"
+        },
+        "createemoji" : {
+            "description" : "Create an emoji in the guild",
+            "usage"       : "createemoji"
+        },
+        "createemojis" : {
+            "description" : "Create the maximum amount of emojis in the guild",
+            "usage"       : "createemojis"
+        },
+        "deleteemoji" : {
+            "description" : "Delete an emoji in the guild",
+            "usage"       : "deleteemoji [emoji_id](mandatory)"
+        },
+        "deleteemojis" : {
+            "description" : "Delete all the emojies in the guild",
+            "usage"       : "deleteemojis"
+        },
+        "createsticker" : {
+            "description" : "Create a sticker in the guild",
+            "usage"       : "createsticker"
+        },
+        "createstickers" : {
+            "description" : "Create the maximum amount of stickers in the guild",
+            "usage"       : "createstickers"
+        },
+        "nuke" : {
+            "description" : "Nuke the entire guild",
+            "usage"       : "nuke"
+        }
+
+    }
+}
